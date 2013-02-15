@@ -16,3 +16,7 @@ as3Logger, https://github.com/yangboz/as3Logger
 Usage Example:
 =====================
 see:https://github.com/yangboz/godpaper/tree/master/TheKnightErrant/src/com/godpaper/as3/business/fsm
+
+TODO List:
+=====================
+#1.Message communication among of Agents;
