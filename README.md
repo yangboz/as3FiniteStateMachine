@@ -19,4 +19,4 @@ see:https://github.com/yangboz/godpaper/tree/master/TheKnightErrant/src/com/godp
 
 TODO List:
 =====================
-#1.Message communication among of Agents;
+1.Message communication among of Agents;
