@@ -19,7 +19,7 @@ see:https://github.com/yangboz/godpaper/tree/master/TheKnightErrant/src/com/godp
 
 * Maven repository
 
-http://repository-godpaper.forge.cloudbees.com/snapshot/com/godpaper/as3/as3ANN/
+http://repository-godpaper.forge.cloudbees.com/snapshot/com/godpaper/as3/as3FiniteStateMachine/
 
 * TODO List:
 
