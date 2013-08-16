@@ -24,3 +24,9 @@ http://repository-godpaper.forge.cloudbees.com/snapshot/com/godpaper/as3/as3Fini
 * TODO List:
 
 1.Message communication among of Agents;
+
+* Blog:
+
+http://blog.lookbackon.com/?page_id=301 
+
+http://blog.lookbackon.com/?paged=9
